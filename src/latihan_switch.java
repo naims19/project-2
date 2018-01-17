@@ -19,7 +19,7 @@ switch (year % 12){
     case 1 : System.out.println("ayam"); break;
     case 2 : System.out.println("anjing"); break;
     case 3 : System.out.println("babi"); break;
-    case 4 : System.out.println("tikus"); break;
+    case 4 : System.out.println("semut"); break;
     case 5 : System.out.println("lembu"); break;
     case 6 : System.out.println("harimau"); break;
     case 7 : System.out.println("arnab"); break;
